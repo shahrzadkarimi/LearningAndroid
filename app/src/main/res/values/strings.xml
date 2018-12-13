@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearningAndroid</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
